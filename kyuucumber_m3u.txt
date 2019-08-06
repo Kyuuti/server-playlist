@@ -1,0 +1,52 @@
+#EXTM3U
+#EXTINF:0,Reol - Utena
+https://www.dropbox.com/s/od3oicao79a4elg/%5BMV%5D%20Reol%20-%20%E3%82%A6%E3%83%86%E3%83%8A%20Utena%20Music%20Video.mp3?dl=1
+#EXTINF:0,Reol - Saisaki
+https://www.dropbox.com/s/1hwfwx4wouzch7q/%5BMV%5D%20Reol%20-%20%E3%82%B5%E3%82%A4%E3%82%B5%E3%82%AD%20Saisaki%20Music%20Video.mp3?dl=1
+#EXTINF:0,Araki - Snow Drive
+https://www.dropbox.com/s/lhwmh9gmffc3rtr/Araki-Snow%20Drive.mp3?dl=1
+#EXTINF:0,Vickeblanka - Black Rover
+https://www.dropbox.com/s/xjdjdva3ph0iai6/Black%20Clover%20Opening%203%20Full%20Black%20Rover%20-%20Vickeblanka%20Lyrics%20%5BCC%5D.mp3?dl=1
+#EXTINF:0,XX:me - Escape
+https://www.dropbox.com/s/l1fam19xu19xsu7/Darling%20in%20the%20FranXX%20ED%205%20Full%20Escape%20%5BFullHD%5D%20Creditless.mp3?dl=1
+#EXTINF:0,DECO*27 - Hibana (feat. Hatsune Miku)
+https://www.dropbox.com/s/2m31oezuauqv48c/DECO27%20-%20%E3%83%92%E3%83%90%E3%83%8A%20feat.%20%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF.mp3?dl=1
+#EXTINF:0,Gyze - Honesty
+https://www.dropbox.com/s/yhsdxbjufsfm6ia/Gyze-Honesty.mp3?dl=1
+#EXTINF:0,HoneyComeBear - Mirror
+https://www.dropbox.com/s/87wkan7juialnpv/HoneyComeBear%20-%20Mirror%20%5BFuture%20Bass%5D.mp3?dl=1
+#EXTINF:0,REOL - サマーホラーパーティ 歌ってみた
+https://www.dropbox.com/s/0kgw2ug5taglqbb/J-HouseR%CE%9E%CE%9FL%20-%20%E3%82%B5%E3%83%9E%E3%83%BC%E3%83%9B%E3%83%A9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%20%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F.mp3?dl=1
+#EXTINF:0,Fujiwara Chika - Chikatto Chika Chikkatsu
+https://www.dropbox.com/s/yt0w3coer983w8j/Kaguya-sama%20Love%20Is%20War%20-%20Chika%20Dance%20Song%20FullChikatto%20Chika%20Chika.mp3?dl=1
+#EXTINF:0,Kradness & Reol - Remote Control
+https://www.dropbox.com/s/pixdzblpwqb98d1/kradness%26%E3%82%8C%E3%82%92%E3%82%8B%E3%83%AA%E3%83%A2%E3%82%B3%E3%83%B3%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F.mp3?dl=1
+#EXTINF:0,Reol - LUVORATORRRRRY! (feat. nqrse)
+https://www.dropbox.com/s/269el65g0ms8k68/LUVORATORRRRRY%21%20ver%20%E3%82%8C%E3%82%92%E3%82%8B%20feat.nqrse.mp3?dl=1
+#EXTINF:0,Blend A - Bon Appetit S
+https://www.dropbox.com/s/3nynd1p38ikr8zc/Lyrics%20AMV%20Blend%20S%20OP%20Full%20-%20Bon%20App%C3%A9titS%20Blend%20A%20%28Mafuyu%2C%20Maika%2C%20Kaho%29%20%281%29.mp3?dl=1
+#EXTINF:0,MYTH & ROID - Paradisus-Paradoxum
+https://www.dropbox.com/s/iw5ss6kdlavbafb/MV%20MYTH%26ROID%20-%20Paradisus-Paradoxum%28OFFICIAL%29.mp3?dl=1
+#EXTINF:0,Nameless - All I Need Are Things I Like
+https://www.dropbox.com/s/a224exgqonw6ijx/nameless%20-%20All%20I%20Need%20Are%20Things%20I%20Like.mp3?dl=1
+#EXTINF:0,Reol - No Title
+https://www.dropbox.com/s/sj23zkd51hbj1or/No%20title.mp3?dl=1
+#EXTINF:0,Tsukikage - Spatto! Spy & Spyce
+https://www.dropbox.com/s/2lhucwpp9wq44rv/RELEASE%20THE%20SPYCE%20Opening%20FullSpatto%21%20Spy%20%26%20Spyceby%20Tsukikage.mp3?dl=1
+#EXTINF:0,Kana Hanazawa - Renai Circulation
+https://www.dropbox.com/s/s827bswqx6t719b/Renai%20Circulation%E6%81%8B%E6%84%9B%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E6%AD%8C%E3%81%A3%E3%81%A6%E3%81%BF%E3%81%9F%E3%81%AA%E3%81%BF%E3%82%8A%E3%82%93.mp3?dl=1
+#EXTINF:0,Rie Takahashi - Stay Alive
+https://www.dropbox.com/s/xccqbqcdzbjdjt3/ReZero%20ED%20Ending%202%20FullEmilia%20%28Rie%20Takahashi%29%20-%20Stay%20Alive%20ENG%20SUB.mp3?dl=1
+#EXTINF:0,THE ORAL CIGARETTES - Rel
+https://www.dropbox.com/s/6gn494tnupmi4g2/THE%20ORAL%20CIGARETTES%20-%20RelEng%20%26%20Romaji%20Subs.mp3?dl=1
+#EXTINF:0,Vuikonnu - Caramel Heaven
+https://www.dropbox.com/s/q9qnvy77uzh6um6/yuikonnu%20-%20Caramel%20Heaven.mp3?dl=1
+#EXTINF:0,Yuikonnu - Ghost Rule
+https://www.dropbox.com/s/fnlad2kigrrosob/yuikonnu%20-%20Ghost%20Rule%20%E3%82%86%E3%81%84%E3%81%93%E3%82%93%E3%81%AC%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%E3%83%AB%E3%83%BC%E3%83%AB.mp3?dl=1
+#EXTINF:0,Yunomi & nicamoq - インドア系なら…イカ
+https://www.dropbox.com/s/hjowqf3l8u51yak/Yunomi%20%26%20nicamoq%20-%20%E3%82%A4%E3%83%B3%E3%83%89%E3%82%A2%E7%B3%BB%E3%81%AA%E3%82%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E3%83%A1%E3%82%A4%E3%82%AB%E3%83%BC.mp3?dl=1
+#EXTINF:0,三月のパンタシア パステルレイン
+https://www.dropbox.com/s/jcxjoy5n111j56v/%E4%B8%89%E6%9C%88%E3%81%AE%E3%83%91%E3%83%B3%E3%82%BF%E3%82%B7%E3%82%A2%20%E3%83%91%E3%82%B9%E3%83%86%E3%83%AB%E3%83%AC%E3%82%A4%E3%83%B3.mp3?dl=1
+#EXTINF:0,RADWIMPS - Zen Zen Zense
+https://www.dropbox.com/s/w0uxuqzsmonjw3u/%E5%89%8D%E5%89%8D%E5%89%8D%E4%B8%96%20%28movie%20ver.%29%20RADWIMPS%20MV.mp3?dl=1
+
